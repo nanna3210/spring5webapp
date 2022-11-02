@@ -1,11 +1,11 @@
 package guru.springframework.spring5webapp.domain;
 
-//""
+
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
-//test
+
 @Entity
 public class Author {
 
